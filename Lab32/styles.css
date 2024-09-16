@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    line-height: 1.6;
+    background-color: rgb(37, 37, 37);
+}
+#question-container div {
+    margin-bottom: 20px;
+    color: aliceblue;
+}
+
+h1{
+    color:darkblue;
+    text-align: center;
+}
+
+p{
+    color: rgb(219, 20, 20);
+    font-weight: bold;
+    text-align: center;
+}
+
+label {
+    display: block; /* Faz cada resposta aparecer em uma nova linha */
+}
+
+button{
+    color: white;
+    background-color: darkblue;
+    font-weight: bold;
+}
